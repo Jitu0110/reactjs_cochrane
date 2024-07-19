@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs_cochrane/static/css/main.fae71ce4.css",
+    "main.js": "/reactjs_cochrane/static/js/main.abcf10e9.js",
+    "static/js/453.5f8b81dc.chunk.js": "/reactjs_cochrane/static/js/453.5f8b81dc.chunk.js",
+    "index.html": "/reactjs_cochrane/index.html",
+    "main.fae71ce4.css.map": "/reactjs_cochrane/static/css/main.fae71ce4.css.map",
+    "main.abcf10e9.js.map": "/reactjs_cochrane/static/js/main.abcf10e9.js.map",
+    "453.5f8b81dc.chunk.js.map": "/reactjs_cochrane/static/js/453.5f8b81dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae71ce4.css",
+    "static/js/main.abcf10e9.js"
+  ]
+}
