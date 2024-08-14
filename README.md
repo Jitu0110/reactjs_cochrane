@@ -2,6 +2,8 @@
 
 This project displays a list of Cochrane Library reviews with search functionality.
 
+Hosted link : jitu0110.github.io/reactjs_cochrane/
+
 ## Setup and Running the Project
 
 1. Ensure you have Node.js and npm installed on your system.
